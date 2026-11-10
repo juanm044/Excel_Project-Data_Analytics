@@ -9,7 +9,7 @@ This salary dashboard was created to investigate salaries for different data job
 The data is sourced from Luke Barousse's [Excel Course](https://www.lukebarousse.com/). The data contains detailed information on job titles, salaries, locations, and essential skills that are presented here.
 
 ### Dashboard File
-My final dashboard is in [Salary_Dashboard.xlsx](Salary_Dashboard.xlsx).
+My finished dashboard is in [Salary_Dashboard.xlsx](Salary_Dashboard.xlsx).
 
 ### Excel Skills Used
 
@@ -21,7 +21,7 @@ The following Excel skills were utilized for analysis:
 
 ### Data Jobs Dataset
 
-The dataset used for this project contains real-world data science job information from 2023. It includes detailed information on:
+The dataset is made up of real data job postings from 2023. For each posting it has:
 
 - **👨‍💼 Job titles**
 - **💰 Salaries**
@@ -110,4 +110,4 @@ IF(
 
 ## Conclusion
 
-This dashboard provides insights into salary trends across data-related job titles. Users can explore how location and job type affect salaries, helping them make informed career decisions.
+This dashboard shows how salaries compare across data job titles. Users can explore how location and job type affect pay, which can help when thinking about career choices.
