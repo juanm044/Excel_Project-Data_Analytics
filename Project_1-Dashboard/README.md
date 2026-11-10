@@ -4,9 +4,7 @@
 
 ## Introduction
 
-This salary dashboard was created to investigate salaries for different data jobs.
-
-The data is sourced from Luke Barousse's [Excel Course](https://www.lukebarousse.com/). The data contains detailed information on job titles, salaries, locations, and essential skills that are presented here.
+This salary dashboard was created to investigate salaries for different data jobs by analyzing compensation across multiple positions and locations. The dashboard helps uncover trends and patterns that can support career research and salary comparisons.
 
 ### Dashboard File
 My finished dashboard is in [Salary_Dashboard.xlsx](Salary_Dashboard.xlsx).
@@ -21,7 +19,7 @@ The following Excel skills were utilized for analysis:
 
 ### Data Jobs Dataset
 
-The dataset is made up of real data job postings from 2023. For each posting it has:
+The dataset is made up of real data job postings from 2023.The data is sourced from Luke Barousse's [Excel Course](https://www.lukebarousse.com/). The data contains detailed information on job titles, salaries, locations, and essential skills that are presented here. For each posting it has:
 
 - **👨‍💼 Job titles**
 - **💰 Salaries**
