@@ -174,3 +174,5 @@ It includes detailed information on:
 - This chart shows the value of learning high-impact skills like Python and SQL, which are tied to higher-paying roles, especially for anyone looking to maximize their salary in tech.
 
 ## Conclusion
+
+This project uses Excel to analyze real-world data job postings and uncover insights into the data job market. By cleaning, organizing, and visualizing the data with Power Query, PivotTables, and interactive dashboards, I explored salary trends, hiring patterns, and the skills most commonly requested by employers. The analysis provides a clear view of how different roles, locations, and technical skills influence compensation.
