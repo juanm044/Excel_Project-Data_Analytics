@@ -1,4 +1,4 @@
-# Excel_Project-Data_Analytics
+# My Excel Data Analytics Projects
 
 ## Salary Dashboard
 This salary dashboard was created to investigate salaries for data jobs.  
