@@ -9,7 +9,7 @@ This salary dashboard was created to investigate salaries for different data job
 The data is sourced from Luke Barousse's [Excel Course](https://www.lukebarousse.com/). The data contains detailed information on job titles, salaries, locations, and essential skills that are presented here.
 
 ### Dashboard File
-My final dashboard is in [1_Salary_Dashboard.xlsx](1_Salary_Dashboard.xlsx).
+My final dashboard is in [Salary_Dashboard.xlsx](Salary_Dashboard.xlsx).
 
 ### Excel Skills Used
 
