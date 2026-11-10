@@ -3,7 +3,7 @@
 
 ## Introduction
 
-As a former job seeker, I’ve always been surprised by the lack of data exploring the most optimal jobs and skills in the data science market. I set out to understand what skills top employers request and how to land more pay.
+I explore the data to identify the skills most frequently requested by top employers and examine their relationship with salary. This analysis highlights which technical skills are in greatest demand and provides insights into the skills that may lead to higher compensation in the data job market.
 
 ### Questions to Analyze
 
