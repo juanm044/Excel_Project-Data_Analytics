@@ -19,7 +19,7 @@ The following Excel skills were used for the analysis:
 
 ### Data Jobs Dataset
 
-The dataset is made up of real data job postings from 2023.The data is sourced from Luke Barousse's [Excel Course](https://www.lukebarousse.com/). The data contains detailed information regarding::
+The dataset is made up of real data job postings from 2023.The data is sourced from Luke Barousse's [Excel Course](https://www.lukebarousse.com/). The data contains detailed information regarding:
 
 - **Job titles**
 - **Salaries**
