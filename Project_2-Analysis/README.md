@@ -141,7 +141,7 @@ It includes detailed information on:
 #### Insights
 
 - SQL and Python are the most requested skills in data jobs, which reflects how central they are to data processing and analysis.
-- Cloud platforms like AWS and Azure also show up frequently, pointing to the industry's move toward cloud services and big data technologies.
+- Tableau is right reflecting how important visualization is in understanding data.
 
     ![2_Project_Analysis_Chart3.png](/0_Resources/Images/2_Project_Analysis_Chart3.png)
 
@@ -155,23 +155,24 @@ It includes detailed information on:
 
 #### PivotChart
 
-- A combo PivotChart was created to plot median salary and skill likelihood (%) from the PivotTable.
+- A combo PivotChart was created to plot median salary and the count of jobs requesting a skill.
     - **Primary Axis:** Median Salary (Clustered Column)
-    - **Secondary Axis:** Skill Likelihood (Line with Markers)
-- To customize the chart, an axis title was added, the line for skill likelihood was removed, and the markers were changed to diamonds.
+    - **Secondary Axis:** Skill Count (Line with Markers)
+- To customize the chart, an axis title was added, the line for skill count was removed, and the markers were changed to diamonds.
 
 ### Analysis
 
 #### Insights
 
-- Higher median salaries are associated with skills like Python, Oracle, and SQL, which suggests they play a key role in high-paying tech jobs.
-- Skills like PowerPoint and Word have the lowest median salaries and are requested less often, which suggests less specialization and lower demand in high-paying roles.
+- Higher median salaries are associated with skills like Spark, AWS, and Java, which suggests they play a key role in high-paying tech jobs.
+- Python and SQL have slightly lower median salaries but are among the most requested skills, indicating they are both valuable and widely sought after across data-related positions.
+- R, Tableau, and Excel appear in many job postings but are associated with lower median salaries, suggesting they are common foundational skills rather than primary drivers of higher pay.
 
     ![2_Project_Analysis_Chart4.png](/0_Resources/Images/2_Project_Analysis_Chart4.png)
 
 ### So What
 
-- This chart shows the value of learning high-impact skills like Python and SQL, which are tied to higher-paying roles, especially for anyone looking to maximize their salary in tech.
+- The chart suggests that specialized technical skills are associated with the highest-paying jobs, while Python and SQL offer a strong balance of high salaries and strong market demand. Learning a combination of widely requested and specialized skills may improve both job opportunities and earning potential.
 
 ## Conclusion
 
